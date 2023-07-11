@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alik-Agarwala&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 <!-- social links -->
-<h3 align="center">Connect with me</h3>
+<h3 align="center">Follow me</h3>
 
 <p align="center">
     <a href="https://linkedin.com/in/alik-agarwala"><img height="34" src="images/socials/linkedin.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
