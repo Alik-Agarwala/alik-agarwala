@@ -18,10 +18,10 @@
 <h3 align="center">GitHub Trophies</h3>
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=Alik-Agarwala&theme=dark_lover&no-frame=true&no-bg=true&column=3&title=Commits,Followers,Stars)
+![trophy](https://github-profile-trophy.vercel.app/?username=Alik-Agarwala&theme=dark_lover&no-frame=true&no-bg=true&column=3&title=Repositories,Commits,Stars)
 <br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Alik-Agarwala&theme=dark_lover&no-frame=true&no-bg=true&column=3&title=PullRequest,Repositories,Reviews)
+![trophy](https://github-profile-trophy.vercel.app/?username=Alik-Agarwala&theme=dark_lover&no-frame=true&no-bg=true&column=3&title=PullRequest,Followers,Reviews)
 </div>
 
 <!-- github stats -->
