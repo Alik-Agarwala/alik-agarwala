@@ -38,7 +38,7 @@
 <br>
 
 <!-- LeetCode stats -->
-<p align="center"><img src="https://leetcard.jacoblin.cool/Alik-Agarwala?ext=heatmap"></p>
+<p align="center"><img src="https://leetcard.jacoblin.cool/AlikAgarwala?ext=heatmap"></p>
 
 <!-- Skills -->
 <h1 align=center>
