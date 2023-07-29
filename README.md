@@ -21,7 +21,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=Alik-Agarwala&theme=dark_lover&no-frame=true&no-bg=true&column=4&title=Repositories,Commits,Stars,MultiLanguage)
 <br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Alik-Agarwala&theme=dark_lover&no-frame=true&no-bg=true&column=3&title=PullRequest,Followers,Reviews)
+![trophy](https://github-profile-trophy.vercel.app/?username=Alik-Agarwala&theme=dark_lover&no-frame=true&no-bg=true&column=4&title=PullRequest,Followers,Reviews,Issues)
 </div>
 
 <!-- github stats -->
