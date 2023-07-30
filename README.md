@@ -1,3 +1,5 @@
+---
+
 <!-- banner image to be updated -->
 <img src="images/header.png" alt="banner image">
 
@@ -14,6 +16,8 @@
     <a href="https://twitter.com/AlikAgarwala"><img height="34" src="images/socials/twitter.svg" alt="Twitter"></a>
 </p>
 
+---
+
 <!-- github trophies -->
 <h3 align="center">🏆 GitHub Trophies 🥇</h3>
 <div align="center">
@@ -23,6 +27,8 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Alik-Agarwala&theme=dark_lover&no-frame=true&no-bg=true&column=4&title=PullRequest,Followers,Reviews,Issues)
 </div>
+
+---
 
 <!-- github stats -->
 <h3 align="center">📈 GitHub Stats 📊</h3>
@@ -37,8 +43,13 @@
 </div>
 <br>
 
+---
+
 <!-- LeetCode stats -->
+<h3 align="center">📊 Coding Stats 📈</h3>
 <p align="center"><img src="https://leetcard.jacoblin.cool/AlikAgarwala?ext=heatmap&theme=dark"></p>
+
+---
 
 <!-- Skills -->
 <h1 align=center>
@@ -100,6 +111,8 @@
     <img src="images/iot/arduino.svg" height="34" alt="Arduino" align=right>&nbsp;&nbsp;
 </h1>
 
+---
+
 <!-- Profile 3D Contrib -->
 <h1 align=center>
 
@@ -109,3 +122,5 @@
 <div align=center>
     <img src="profile-3d-contrib/profile-night-rainbow.svg" height="500" alt="Profile 3D Contrib">
 </div>
+
+---
