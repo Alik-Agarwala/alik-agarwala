@@ -10,10 +10,10 @@
 <h3 align="center">🔗 Connect with me 🌏</h3>
 
 <p align="center">
-    <a href="https://linkedin.com/in/alik-agarwala"><img height="50" src="GIFs/linked-in.gif" alt="LinkedIn"></a>&nbsp;&nbsp;
-    <a href="https://facebook.com/AlikAgarwala"><img height="50" src="GIFs/facebook.gif" alt="Facebook"></a>&nbsp;&nbsp;
-    <a href="https://instagram.com/alikagarwala"><img height="50" src="GIFs/instagram.gif" alt="Instagram"></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/AlikAgarwala"><img height="50" src="GIFs/twitter.gif" alt="Twitter"></a>
+    <a href="https://linkedin.com/in/alik-agarwala"><img height="34" src="images/socials/linked-in.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
+    <a href="https://facebook.com/AlikAgarwala"><img height="34" src="images/socials/facebook.svg" alt="Facebook"></a>&nbsp;&nbsp;
+    <a href="https://instagram.com/alikagarwala"><img height="34" src="images/socials/instagram.svg" alt="Instagram"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/AlikAgarwala"><img height="34" src="images/socials/twitter.svg" alt="Twitter"></a>
 </p>
 
 ---
