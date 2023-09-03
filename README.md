@@ -22,10 +22,10 @@
 <h3 align="center">🏆 GitHub Trophies 🥇</h3>
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=Alik-Agarwala&theme=dark_lover&no-frame=true&no-bg=true&column=4&title=Repositories,Commits,PullRequest,MultiLanguage)
+![trophy](https://github-profile-trophy.vercel.app/?username=Alik-Agarwala&theme=dark_lover&no-frame=true&no-bg=true&column=4&title=Commits,Stars,PullRequest,MultiLanguage)
 <br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Alik-Agarwala&theme=dark_lover&no-frame=true&no-bg=true&column=4&title=Followers,Stars,Reviews,Issues)
+![trophy](https://github-profile-trophy.vercel.app/?username=Alik-Agarwala&theme=dark_lover&no-frame=true&no-bg=true&column=4&title=Followers,Repositories,Reviews,Issues)
 </div>
 
 ---
