@@ -89,8 +89,8 @@
 </h1>
 
 <h1>Database:&nbsp;&nbsp; <!-- Database -->
-    <img src="images/database/DynamoDB-Dark.svg" height="34" alt="DynamoDB" align=right>&nbsp;&nbsp;
     <img src="images/database/firebase.svg" height="34" alt="Firebase" align=right>&nbsp;&nbsp;
+    <img src="images/database/DynamoDB-Dark.svg" height="34" alt="DynamoDB" align=right>&nbsp;&nbsp;
     <img src="images/database/mongo-db.svg" height="34" alt="MongoDB" align=right>&nbsp;&nbsp;
     <img src="images/database/MySQL.svg" height="34" alt="MySQL" align=right>&nbsp;&nbsp;
 </h1>
