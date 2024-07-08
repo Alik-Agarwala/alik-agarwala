@@ -120,7 +120,7 @@
 </h1>
 
 <div align=center>
-    <img src="profile-3d-contrib/profile-night-rainbow.svg" height="500" alt="Profile 3D Contrib">
+    <img src="profile-3d-contrib/profile-night-green.svg" height="500" alt="Profile 3D Contrib">
 </div>
 
 ---
